@@ -11,7 +11,7 @@ As part of the application process we would like you to complete a short technic
 The objective is to build a simple web tool that:
 1. Presents a set of open Action Items to the user,
 2. Allows the user to pick one and "Choose File" it by uploading a file from their computer,
-3. Marks that Action Item as "File uploaded" and stores the corresponding file provided. (Changes status of File not uploaded)
+3. Marks that Action Item as "File uploaded" and stores the corresponding file provided. (Changes status of File not uploaded, Sample Image added as a preview)
 
 The Items should be seeded from the [given data file](./test_data.json), and
 displayed / represented by the given id number and text, as well as
